@@ -1,0 +1,13 @@
+* {
+  font-family: verdana, sans-serif;
+}
+#heading {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center
+}
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
